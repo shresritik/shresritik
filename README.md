@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **open source software**
 
-- 👨‍💻 All of my projects are available at [shresritik.web.app](shresritik.web.app)
+- 👨‍💻 All of my projects are available at [shresritik](shresritik)
 
 - 💬 Ask me about **web development**
 
