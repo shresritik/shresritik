@@ -1,4 +1,4 @@
-<div style="background-color:rgba(125,125,125,0.1); padding:20px">
+<div style="background-color:rgba(125,125,125,0.5); padding:20px">
 <h1 align="center">Hi 👋, I'm Ritik Shrestha</h1>
 <h3 align="center">A passionate developer from Nepal.</h3>
 
